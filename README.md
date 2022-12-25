@@ -1,0 +1,2 @@
+# Audio-Classifier
+This is a simple idea and implement that feeds a convolution network with spectral of reconstruction signal from audio signal's empirical decomposition for classification, which basically filters the low-frequency components adaptively for reducing the tone variance, while staying the pronunciation features to get an easy fit and better performance. It took 5 epochs and got 95% accuracy during several experiments.
